@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MapArcGIS.Program" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapArcGIS.MapGIS" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACAAAAAQAQAQQCAEAAAAAACAIAKVAAAAAAAA=</HashCode>
+      <FileName>MapGIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapArcGIS.WorkSpace">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Struct Name="MapArcGIS.WorkSpace.Head" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpace.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAQAABAgAAQCAAAgAQAIAAQQEAAAAAAACA=</HashCode>
+      <FileName>WorkSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapArcGIS.WorkSpaceWT">
+    <Position X="0.5" Y="5.25" Width="2.75" />
+    <NestedTypes>
+      <Class Name="MapArcGIS.WorkSpaceWT.PointData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MapArcGIS.WorkSpaceWT.StringPointData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MapArcGIS.WorkSpaceWT.SubMapPointData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MapArcGIS.WorkSpaceWT.CriclePointData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MapArcGIS.WorkSpaceWT.ArcPointData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MapArcGIS.WorkSpaceWT.ImagePointData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MapArcGIS.WorkSpaceWT.TextPointData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAAAJgAAQAQAgAKgCAAAAAAoAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>WorkSpaceWT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapArcGIS.WorkSpaceWP">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="MapArcGIS.WorkSpaceWP.NodeInfo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWP.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="MapArcGIS.WorkSpaceWP.AreaInfo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWP.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="MapArcGIS.WorkSpaceWP.NodeFeature" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWP.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="MapArcGIS.WorkSpaceWP.AreaFeature" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWP.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABABAAA=</HashCode>
+      <FileName>WorkSpaceWP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapArcGIS.WorkSpaceWL">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="MapArcGIS.WorkSpaceWL.LineData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWL.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="MapArcGIS.WorkSpaceWL.LinePosition" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWL.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="MapArcGIS.WorkSpaceWL.NodeData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkSpaceWL.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WorkSpaceWL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapArcGIS.WorkSpaceFactory" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WorkSpaceFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="MapArcGIS.WorkSpaceInfo" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQAIAAAAIgABIACCAwAAEAAAAAAAAABEgAAAAAAAE=</HashCode>
+      <FileName>WorkSpaceInfo.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MapArcGIS.DataHead" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataHead.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MapArcGIS.FeatureTable" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAABAAMAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>FeatureTable.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MapArcGIS.FeatureTableItem" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FeatureTableItem.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MapArcGIS.FeatureTableHead" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAAACAAAgAAA=</HashCode>
+      <FileName>FeatureTableHead.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="MapArcGIS.LoadData" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoadData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

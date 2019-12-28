@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\yuk-project-mapgis2arcgis-master\MapGIStoArcGIS\trunk\MapArcGIS\bin\Debug\MapArcGIS.exe
+C:\Users\Administrator\Desktop\yuk-project-mapgis2arcgis-master\MapGIStoArcGIS\trunk\MapArcGIS\bin\Debug\MapArcGIS.pdb
+C:\Users\Administrator\Desktop\yuk-project-mapgis2arcgis-master\MapGIStoArcGIS\trunk\MapArcGIS\obj\x86\Debug\MapArcGIS.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\yuk-project-mapgis2arcgis-master\MapGIStoArcGIS\trunk\MapArcGIS\obj\x86\Debug\MapArcGIS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\yuk-project-mapgis2arcgis-master\MapGIStoArcGIS\trunk\MapArcGIS\obj\x86\Debug\MapArcGIS.exe
+C:\Users\Administrator\Desktop\yuk-project-mapgis2arcgis-master\MapGIStoArcGIS\trunk\MapArcGIS\obj\x86\Debug\MapArcGIS.pdb
